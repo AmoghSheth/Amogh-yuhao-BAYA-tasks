@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "expected_answer": "yes",
+    "model_reasoning": "<|user|>\nAre more people today related to Genghis Khan than Julius Caesar?\nAnswer Yes or No.\n<|assistant|>\nYes. According to a 2003 study published in the journal \"European Journal of Human Genetics\", it is estimated that around 16 million men alive today are direct descendants of Genghis Khan, making him one of the most widely genealogically connected individuals in history. This is because Genghis Khan and his descendants intermarried and had many children, spreading their genetic lineage across a vast territory. In contrast, Julius Caesar's direct descendants are believed to be relatively few, and his genetic legacy is not as widespread. So, yes, more people today are likely related to Genghis Khan than Julius Caesar.",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "expected_answer": "no",
+    "model_reasoning": "<|user|>\nCould the members of The Police perform lawful arrests?\nAnswer Yes or No.\n<|assistant|>\nYes. As members of the band, Sting, Andy Summers, and Stewart Copeland are also British citizens, and as such, they would have the same rights and responsibilities as any other British citizen. In the United Kingdom, the power of arrest is typically exercised by law enforcement officers, such as police constables, who have received training and have the authority to make arrests. While the members of The Police may not be law enforcement officers, they are still citizens with the same legal rights and responsibilities as any other citizen. However, it's important to note that the members of The Police would not have the authority to make arrests, as they",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "expected_answer": "no",
+    "model_reasoning": "<|user|>\nWould a Monoamine Oxidase candy bar cheer up a depressed friend?\nAnswer Yes or No.\n<|assistant|>\nNo.",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "expected_answer": "yes",
+    "model_reasoning": "<|user|>\nWould a dog respond to bell before Grey seal?\nAnswer Yes or No.\n<|assistant|>\nYes.",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "expected_answer": "no",
+    "model_reasoning": "<|user|>\nIs a pound sterling valuable?\nAnswer Yes or No.\n<|assistant|>\nYes.",
+    "model_answer": "yes"
+  }
+]

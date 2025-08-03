@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "expected_answer": "yes",
+    "model_reasoning": "<|user|>\nAre more people today related to Genghis Khan than Julius Caesar?\nAnswer Yes or No.\n<|assistant|>\nNo, it is not accurate to say that more people today are related to Genghis Khan than Julius Caesar. While it is estimated that 1 in 200 men in Central Asia are descendants of Genghis Khan, the number of descendants of Julius Caesar is much larger due to the wider geographical reach and longer time span of the Roman Empire. Additionally, the methodology used to estimate Genghis Khan's descendants is a subject of ongoing debate among scientists.",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "expected_answer": "no",
+    "model_reasoning": "<|user|>\nCould the members of The Police perform lawful arrests?\nAnswer Yes or No.\n<|assistant|>\nNo, the members of The Police are musicians, not law enforcement officers. They cannot perform lawful arrests.",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "expected_answer": "no",
+    "model_reasoning": "<|user|>\nWould a Monoamine Oxidase candy bar cheer up a depressed friend?\nAnswer Yes or No.\n<|assistant|>\nNo, a Monoamine Oxidase (MAO) candy bar does not exist. MAO is an enzyme that breaks down certain neurotransmitters in the brain, including serotonin and dopamine. It's often inhibited with medication to help manage conditions like depression. However, there's no such thing as a candy bar infused with MAO or its inhibitors. If you're looking for ways to help a friend who's depressed, consider suggesting they talk to a mental health professional or encouraging them to engage in activities they enjoy.",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "expected_answer": "yes",
+    "model_reasoning": "<|user|>\nWould a dog respond to bell before Grey seal?\nAnswer Yes or No.\n<|assistant|>\nYes, a dog can learn to respond to a bell before a grey seal. Dogs are highly trainable animals and can learn complex behaviors through conditioning. Grey seals, on the other hand, are wild animals and do not naturally respond to bells. Training a grey seal to respond to a bell would require extensive time, effort, and specialized knowledge.",
+    "model_answer": "yes"
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "expected_answer": "no",
+    "model_reasoning": "<|user|>\nIs a pound sterling valuable?\nAnswer Yes or No.\n<|assistant|>\nYes, the pound sterling is a valuable currency. It is the currency used in the United Kingdom and is widely accepted for international transactions. It is also one of the major global currencies, alongside the US dollar, Euro, Japanese Yen, and Swiss Franc.",
+    "model_answer": "yes"
+  }
+]

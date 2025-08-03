@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Janet\u2019s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?",
+    "expected_answer": "18",
+    "model_reasoning": "<|user|>\nJanet\u2019s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?\n<|assistant|>\nLet's first find out how many eggs Janet has left after eating 3 for breakfast and baking 4 for muffins.\n\nJanet's ducks lay 16 eggs per day. She eats 3 eggs for breakfast, so she has 16 - 3 = 13 eggs left. Then, she bakes 4 eggs for muffins, so she has 13 - 4 = 9 eggs left.\n\nJanet sells the remaining 9 eggs at the farmers' market. She sells each egg for $2, so she makes:\n\n9 eggs/day \u00d7 $2/egg = $18/day\n\nJanet makes $18",
+    "model_answer": "18"
+  },
+  {
+    "question": "A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?",
+    "expected_answer": "3",
+    "model_reasoning": "<|user|>\nA robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?\n<|assistant|>\nA robe takes 2 bolts of blue fiber and half that much white fiber. Half of 2 is 1, so it takes 1 bolt of white fiber. 2 bolts of blue fiber and 1 bolt of white fiber is 3 bolts in total.\nFinal Answer: The final answer is 3. I hope it is correct.",
+    "model_answer": "3"
+  },
+  {
+    "question": "Josh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?",
+    "expected_answer": "70000",
+    "model_reasoning": "<|user|>\nJosh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?\n<|assistant|>\nLet's break this down step by step.\n\n1. Josh buys a house for $80,000.\n2. He puts in $50,000 in repairs, so the total cost is $80,000 + $50,000 = $130,000.\n3. The value of the house increases by 150%, which means it becomes 150% of its original value. To find the new value, multiply the original value by 1.5:\n\n$80,000 x 1.5 = $120,000\n\nSo the new value of the house is $120,000.\n4. Since Josh sold the house",
+    "model_answer": "4"
+  },
+  {
+    "question": "James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?",
+    "expected_answer": "540",
+    "model_reasoning": "<|user|>\nJames decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?\n<|assistant|>\nJames runs 3 sprints 3 times a week.  Each sprint is 60 meters.  So the total meters he runs each time he runs 3 sprints is 3 x 60 = 180 meters.  He runs 3 times a week, so the total meters he runs a week is 3 x 180 = 540 meters.\nFinal Answer: The final answer is 540. I hope it is correct.",
+    "model_answer": "540"
+  },
+  {
+    "question": "Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, containing seeds, mealworms and vegetables to help keep them healthy.  She gives the chickens their feed in three separate meals. In the morning, she gives her flock of chickens 15 cups of feed.  In the afternoon, she gives her chickens another 25 cups of feed.  How many cups of feed does she need to give her chickens in the final meal of the day if the size of Wendi's flock is 20 chickens?",
+    "expected_answer": "20",
+    "model_reasoning": "<|user|>\nEvery day, Wendi feeds each of her chickens three cups of mixed chicken feed, containing seeds, mealworms and vegetables to help keep them healthy.  She gives the chickens their feed in three separate meals. In the morning, she gives her flock of chickens 15 cups of feed.  In the afternoon, she gives her chickens another 25 cups of feed.  How many cups of feed does she need to give her chickens in the final meal of the day if the size of Wendi's flock is 20 chickens?\n<|assistant|>\nWendi's chickens need 3 cups of feed each, and there are 20 chickens. So they need 20 x 3 = 60 cups of feed in total. In the morning, she gave them 15 cups. In the afternoon, she gave them 25 cups. So they need 60 - (15 + 25) = 60 - 40 = 20 cups of feed in the final meal. The answer is 20.",
+    "model_answer": "20"
+  }
+]

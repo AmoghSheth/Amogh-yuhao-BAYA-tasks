@@ -1,0 +1,32 @@
+[
+  {
+    "question": "An astronomer observes that a planet rotates faster after a meteorite impact. Which is the most likely effect of this increase in rotation?",
+    "expected_answer": "C",
+    "model_reasoning": "<|user|>\nAn astronomer observes that a planet rotates faster after a meteorite impact. Which is the most likely effect of this increase in rotation?\nA. Planetary density will decrease.\nB. Planetary years will become longer.\nC. Planetary days will become shorter.\nD. Planetary gravity will become stronger.\nAnswer with A, B, C, D, or E.\n<|assistant|>\nC. Planetary days will become shorter.\n\nThe impact of a meteorite could transfer energy to the planet, causing an increase in its rotational speed. This would result in shorter planetary days. The other options are not directly related to the given information.",
+    "model_answer": "A"
+  },
+  {
+    "question": "A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Which will most likely result from testing different building designs?",
+    "expected_answer": "B",
+    "model_reasoning": "<|user|>\nA group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Which will most likely result from testing different building designs?\nA. buildings will be built faster\nB. buildings will be made safer\nC. building designs will look nicer\nD. building materials will be cheaper\nAnswer with A, B, C, D, or E.\n<|assistant|>\nB. buildings will be made safer",
+    "model_answer": "A"
+  },
+  {
+    "question": "The end result in the process of photosynthesis is the production of sugar and oxygen. Which step signals the beginning of photosynthesis?",
+    "expected_answer": "C",
+    "model_reasoning": "<|user|>\nThe end result in the process of photosynthesis is the production of sugar and oxygen. Which step signals the beginning of photosynthesis?\nA. Chemical energy is absorbed through the roots.\nB. Light energy is converted to chemical energy.\nC. Chlorophyll in the leaf captures light energy.\nD. Sunlight is converted into chlorophyll.\nAnswer with A, B, C, D, or E.\n<|assistant|>\nC. Chlorophyll in the leaf captures light energy.\n\nThis is the first step in the process of photosynthesis, often referred to as the light-dependent reactions. The energy from sunlight is absorbed by the pigment chlorophyll in the chloroplasts of the leaf cells.",
+    "model_answer": "A"
+  },
+  {
+    "question": "A physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. What is the physicist investigating when he changes the speed?",
+    "expected_answer": "D",
+    "model_reasoning": "<|user|>\nA physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. What is the physicist investigating when he changes the speed?\nA. the control\nB. the hypothesis statement\nC. the dependent (responding) variable\nD. the independent (manipulated) variable\nAnswer with A, B, C, D, or E.\n<|assistant|>\nD. the independent (manipulated) variable",
+    "model_answer": "A"
+  },
+  {
+    "question": "An astronaut drops a 1.0 kg object and a 5.0 kg object on the Moon. Both objects fall a total distance of 2.0 m vertically. Which of the following best describes the objects after they have fallen a distance of 1.0 m?",
+    "expected_answer": "D",
+    "model_reasoning": "<|user|>\nAn astronaut drops a 1.0 kg object and a 5.0 kg object on the Moon. Both objects fall a total distance of 2.0 m vertically. Which of the following best describes the objects after they have fallen a distance of 1.0 m?\nA. They have each lost kinetic energy.\nB. They have each gained the same amount of potential energy.\nC. They have each lost the same amount of potential energy.\nD. They have each gained one-half of their maximum kinetic energy.\nAnswer with A, B, C, D, or E.\n<|assistant|>\nA. They have each lost potential energy.\n\nExplanation:\nWhen an object is dropped, it initially has potential energy due to its height above the ground. As it falls, this potential energy is converted into kinetic energy. However, in this question, the objects have fallen a total distance of 2.0 m, meaning they have each lost all of their initial potential energy. Since energy is conserved, the lost potential energy has been converted into kinetic energy. Therefore, the answer is A: They have each lost potential energy.",
+    "model_answer": "A"
+  }
+]

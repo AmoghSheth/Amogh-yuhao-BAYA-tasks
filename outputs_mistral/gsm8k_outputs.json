@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Janet\u2019s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?",
+    "expected_answer": "18",
+    "model_reasoning": "<|user|>\nJanet\u2019s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?\n<|assistant|>\nFirst, let's find out how many eggs Janet has left after eating for breakfast and baking muffins. She eats 3 eggs for breakfast and uses 4 eggs for baking muffins. So, she uses 7 eggs daily.\n\nJanet's ducks lay 16 eggs per day. So, she has 16 - 7 = <<16-7=9>>9 eggs left to sell each day.\n\nShe sells each egg for $2. So, her daily earnings at the farmers' market are 9 eggs * $2/egg = $",
+    "model_answer": "2"
+  },
+  {
+    "question": "A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?",
+    "expected_answer": "3",
+    "model_reasoning": "<|user|>\nA robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?\n<|assistant|>\nA robe requires 2 bolts of blue fiber and half that amount of white fiber. Since half of 2 is 1, the robe takes 2 bolts of blue fiber and 1 bolt of white fiber in total.",
+    "model_answer": "1"
+  },
+  {
+    "question": "Josh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?",
+    "expected_answer": "70000",
+    "model_reasoning": "<|user|>\nJosh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?\n<|assistant|>\nFirst, let's find out the new value of the house after the repairs. We know that the repairs increased the value by 150% of the initial cost. So,\n\nNew value = Initial cost + (Initial cost * 150%)\n\nNew value = $80,000 + ($80,000 * 1.5)\n\nNew value = $80,000 + $120,000\n\nNew value = $200,000\n\nNow, to find the profit, we subtract the",
+    "model_answer": "000"
+  },
+  {
+    "question": "James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?",
+    "expected_answer": "540",
+    "model_reasoning": "<|user|>\nJames decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?\n<|assistant|>\nJames runs 3 sprints each day, and each sprint is 60 meters long. So, the total distance he runs in one day is 3 sprints * 60 meters = 180 meters. Since he runs 3 times a week, the total distance he runs in a week is 180 meters/day * 3 days/week = 540 meters.",
+    "model_answer": "540"
+  },
+  {
+    "question": "Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, containing seeds, mealworms and vegetables to help keep them healthy.  She gives the chickens their feed in three separate meals. In the morning, she gives her flock of chickens 15 cups of feed.  In the afternoon, she gives her chickens another 25 cups of feed.  How many cups of feed does she need to give her chickens in the final meal of the day if the size of Wendi's flock is 20 chickens?",
+    "expected_answer": "20",
+    "model_reasoning": "<|user|>\nEvery day, Wendi feeds each of her chickens three cups of mixed chicken feed, containing seeds, mealworms and vegetables to help keep them healthy.  She gives the chickens their feed in three separate meals. In the morning, she gives her flock of chickens 15 cups of feed.  In the afternoon, she gives her chickens another 25 cups of feed.  How many cups of feed does she need to give her chickens in the final meal of the day if the size of Wendi's flock is 20 chickens?\n<|assistant|>\nTo find out how many cups of feed Wendi needs to give her chickens in the final meal of the day, we first need to determine how many cups of feed are given per chicken per day, and then multiply that by the number of chickens in her flock.\n\nWe know that each chicken gets 3 cups of feed per day, so:\n\nCups of feed per chicken per day = 3 cups\n\nTherefore, the total amount of feed Wendi gives her chickens in a day is:\n\nTotal cups of feed per day = Cups of feed per chicken per day *",
+    "model_answer": "3"
+  }
+]
